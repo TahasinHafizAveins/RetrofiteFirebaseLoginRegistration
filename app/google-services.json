@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "782553850105",
+    "firebase_url": "https://mvploginpage.firebaseio.com",
+    "project_id": "mvploginpage",
+    "storage_bucket": "mvploginpage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782553850105:android:9dd91670bea7a0e1",
+        "android_client_info": {
+          "package_name": "com.example.mvpinloginpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782553850105-mk2nj45um9o6ptu7l4tf6a3n862mqj3b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mvpinloginpage",
+            "certificate_hash": "1f64466218833566bfb2b536ccc2645d7e623b33"
+          }
+        },
+        {
+          "client_id": "782553850105-2dp1sd41okoc3rn25g7ki02i8qro9sa8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYOOMF5pGiXPeU9qOsDAwRpO6fOoeiBGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782553850105-2dp1sd41okoc3rn25g7ki02i8qro9sa8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

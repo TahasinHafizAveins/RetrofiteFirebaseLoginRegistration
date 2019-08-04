@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MVPinLogInPage</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="no_account_yet_create_one">No account yet? Create one</string>
+    <string name="enter_your_e_mail">Enter your e-mail</string>
+    <string name="already_a_member_login">Already a member? Login</string>
+    <string name="create_account">Create Account</string>
+    <string name="re_enter_password">Re-enter Password</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="address">Address</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="todo">todo</string>
+    <string name="logout">LOGOUT</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="verify_your_email_address">Verify Your Email Address</string>
+</resources>
